@@ -1,5 +1,4 @@
 #include <bits/stdc++.h> 
-// Stack class.
 class Stack {
     
 public:
